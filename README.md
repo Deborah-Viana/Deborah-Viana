@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hola soy Debo 👋
 
-<!--
-**Deborah-Viana/Deborah-Viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Soy Analista de Sistemas...;y Project Manager)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+<h3> sobre mi </h3>
+
+- 🔭 Actualmente me faltan 4 finales.
+- 🌱 hice una Diplomatura de Project Manager y me encantó por lo que me estoy preparando para rendir el examen de PMI.
+-  Además estoy aprendiendo programación web.
+
+<p>Conéctate conmigo
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/deborahnoemiviana/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="deborah.noemi.viana@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+
+<br>
+</p>
+
