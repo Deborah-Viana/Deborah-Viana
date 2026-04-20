@@ -1,12 +1,5 @@
 ## Hola soy Debo 👋
 
-
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
 <h3> sobre mi </h3>
 
 - 🔭 Actualmente me faltan 4 finales.
